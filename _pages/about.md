@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>Math. Sciences Building 4.14</p>
-    <p>Dept. of Statistics MSB4.14</p> 
+    <p>Dept. of Statistics</p> 
     <p>University of Warwick</p>
     <p>CV4 7AL, Coventry, UK</p>
 
