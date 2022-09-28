@@ -9,10 +9,9 @@ profile:
   image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Mathematical Sciences Building MSB 4.14</p> 
+    <p>Dept. of Statistics MSB4.14</p> 
     <p>University of Warwick</p>
-    <p>CV47AL Coventry</p>
-    <p>United Kingdom</p>
+    <p>CV4 7AL, Coventry, UK</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
