@@ -25,14 +25,14 @@
       institution: University of Warwick, Coventry, UK
       year: 2021-2022
       description:
-        - Bayesian Inference, Stochastic Processes and Markov Chain Monte Carlo (MCMC) methods. 
-        - Thesis "Boomerang Sampler for Bayesian Neural Networks", provides theoretical and empirical foundations on how Piece-wise Deterministic Markov Processes (PDMPs) are a promising alternative to perform Bayesian Inference on Neural Networks.  
+        - Stochastic Processes | MCMC methods for Bayesian Inference | Deep Learning. 
+        - Thesis "Boomerang Sampler for Bayesian Neural Networks", provides theoretical and empirical foundations on how Piece-wise Deterministic Markov Processes (PDMPs) are a promising alternative to perform Bayesian Inference on Neural Networks.  | Awarded high distinction (88%)
     - title: Degree in Mathematics
       institution: University of Oviedo, Oviedo (Asturias), Spain
       year: 2016-2020
       description:
-        - Measure Theory; Multivariate and Functional Analysis; Theory of Probability Spaces and Stochastic Processes.
-        - Thesis "Local Regression" revisits the theory and applicability of non-parametric methods for regression problems.
+        - Measure Theory; Multivariate and Functional Analysis; Theory of Probability and Stochastic Processes.
+        - Thesis "Local Regression" revisits the theory and applicability of non-parametric methods for regression problems. | Awarded high distinction (9.5/10)
 
 - title: Experience
   type: time_table
@@ -67,18 +67,17 @@
 #      items: 
 #        - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Bayesian Neural Networks (BNNs).
-      items: 
-        - Inference methodology.
-        - Shrinkage and identifyiability effects of priors.
-    - title: Stochastic Processes.
+    - title: Machine Learning.
       items:
-        - Theory and simulation.
-        - Usage as a sampling methodology for Bayesian Inference (MCMC).
-        - Particular interest on PDMP. 
+        - Generative Models.
+        - Physics-Informed Deep Learning.
+        - Statistical techniques (Bayesian Inference/MCMC) for uncertainty quantification in Neural Networks. 
+    - title: (Random) Dynamical Systems.
+      items: 
+
 
 #- title: Other Interests
 #  type: list

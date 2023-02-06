@@ -8,9 +8,11 @@ nav_order: 3
 ---
 <h2 class="year">{{2022}}</h2>
 
-- 2022/08/25: Piece-wise Deterministic Markov Processes as an MCMC methodology to perform posterior inferences on Bayesian Neural Networks @ Computing for Natural Sciences Reading Group, **University of Warwick**, Coventry, UK. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/PDMP_Presentation.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">Slides</a>
+- 2022/12/09: Efficient Bayesian model averaging for Neural Networks via Gibbs-Boomerang @ **Algorithms & Computationally Intensive Inference Seminar (ACIIS), University of Warwick**, Coventry, UK. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/PDMP_presentation-6.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">Slides | <a href="https://livewarwickac.sharepoint.com/:v:/r/sites/AlgorithmsComputationallyIntensiveInferenceseminars/Shared%20Documents/General/Recordings/View%20Only/Pablo%20Ramses%20Alonso%20Martin%20(University%20of%20Warwick)%20-%20Efficient%20Bayesian%20model%20averaging%20for%20Neural%20Networks%20via%20Gibbs%20Boomerang%20-%20%20Fri%209th%20at%201PM%20in%20MB0.08-20221209_130247-Meeting%20Recording.mp4?csf=1&web=1&e=sZG9K0">Video</a>
 
-- 2022/07/18: Introduction to Piece-wise Deterministic Markov Processes @ Computing for Natural Sciences Reading Group, **University of Warwick**, Coventry, UK. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/PDMP_Introduction_Pablo.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">Slides</a>
+- 2022/08/25: Piece-wise Deterministic Markov Processes as an MCMC methodology to perform posterior inferences on Bayesian Neural Networks @ Computing for Natural Sciences, **University of Warwick**, Coventry, UK. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/PDMP_Presentation.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">Slides</a>
+
+- 2022/07/18: Introduction to Piece-wise Deterministic Markov Processes @ Computing for Natural Sciences, **University of Warwick**, Coventry, UK. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/PDMP_Introduction_Pablo.pdf' | relative_url}}" target="_blank" rel="noopener noreferrer">Slides</a>
 
 <h2 class="year">{{2021}}</h2>
 
